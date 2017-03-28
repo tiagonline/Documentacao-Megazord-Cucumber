@@ -3,7 +3,7 @@
 Fala pessoal,
 
 Fiz um compilado para quem está começando em Cucumber ou para servir de referência pra quem já trabalha com o framework.
-Possui quase tudo que já pesquisei e que vem me ajudando na escrita dos meus projetos. Têm posts de muitos caras bons como o Fernando Papini (QAninja), Thiago Birobiro (QAninja), Samanta Cicilia (Concrete Solutions), entre outros.
+Possui quase tudo que já pesquisei e que vem me ajudando na escrita dos meus projetos. Têm posts de muitos dos meus mestres da QANinja Fernando Papini e Thiago Birobiro, Samanta Cicília (Concrete Solutions), entre outros.
 É simples o aprendizado e nos dias de hoje é imprescindível na carreira de qa. Tentei pôr os post por ordem de precisão.
 
 
