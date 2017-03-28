@@ -7,18 +7,21 @@ Possui quase tudo que já pesquisei e que vem me ajudando na escrita dos meus pr
 É simples o aprendizado e nos dias de hoje é imprescindível na carreira de qa. Tentei pôr os post por ordem de precisão.
 
 
-Configurando o GIT:
+Configurando o GIT:]
 http://gabsferreira.com/instalando-o-git-e-configurando-github/
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
 
-Configurando ambiente Cucumber windows:
+Passo a passo obrigatório - Capybara for all - do Thiago Marques]
+https://github.com/thiagomarquessp/capybaraforall
+
+Configurando ambiente Cucumber windows:]
 https://medium.com/@fernandosqa/instalando-ruby-cucumber-e-capybara-no-windows-10-acb1fe833a95#.4umrvkagv
 
-Configurando ambiente Cucumber Mac e Linux:
+Configurando ambiente Cucumber Mac e Linux:]
 http://agiletesters.com.br/topic/103/a-arte-de-desenvolver-testes-cucumber-capybara
 
-Desenvolvam no Atom (é 0800, comunidade bem ativa, tem ótimos plugins):
+Desenvolvam no Atom (é 0800, comunidade bem ativa, tem ótimos plugins):]
 https://atom.io/
 
 Cucumber no Jenkins:
