@@ -69,6 +69,7 @@ Geração de massa aleatória, utilização do faker:
 
 Adicionem a extensão Eskry no Chrome para buscar elementos xpath e CSS de um jeito bem elegante:
 - https://chrome.google.com/webstore/detail/eskry/hfklgljgigfgbdklkehjikeedmfmkjaf?utm_source=chrome-app-launcher-info-dialog
+
 Jeito lindo de usar jQuery hehehe
 
 RSPEC:
@@ -89,5 +90,7 @@ Estou sempre incluindo novos projetos e referências no meu git também:
 
 Se precisar marcamos uns hangouts.
 Qualquer coisa é só chamar! hehe.
+
 tiagonline@gmail.com
+
 Abraço.
