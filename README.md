@@ -70,7 +70,7 @@ Geração de massa aleatória, utilização do faker:
 Adicionem a extensão Eskry no Chrome para buscar elementos xpath e CSS de um jeito bem elegante:
 - https://chrome.google.com/webstore/detail/eskry/hfklgljgigfgbdklkehjikeedmfmkjaf?utm_source=chrome-app-launcher-info-dialog
 
-Jeito lindo de usar jQuery hehehe
+Jeito fácil de usar jQuery hehehe!!
 
 RSPEC:
 - https://github.com/rspec/rspec-expectations
@@ -83,9 +83,9 @@ Jenkins:
 - https://medium.com/@fernandosqa/um-poquito-de-devops-com-jenkins-docker-cucumber-tests-e-reports-parte-2-39653b23fc00#.m5empj7le
 
 e Circle Ci:
-- https://github.com/tiagonline/automacao_circleci
+- https://github.com/thiagomarquessp/automacao-circleci
 
-Estou sempre incluindo novos projetos e referências no meu git também:
+Compartilho com vocês o que tenho na minha barra de favoritos para referências rápidas das documentações. O passo a passo vocês vêem nos links. Estou sempre incluindo novos projetos, forks e referências no meu git também:
 - https://github.com/tiagonline
 
 Se precisar marcamos uns hangouts.
