@@ -31,7 +31,7 @@ Magneton, gem que facilita a criação estrutural de novos projetos:
 - https://github.com/concretesolutions/magneton
 
 Capybara, comandos básicos:
-'''
+```
 visit ‘https://google.com.br’ – Para visitar alguma url.
 
 page.find(:id, “id do elemento”).click – Clica em um elemento definido por ID.
@@ -57,7 +57,7 @@ click_button ‘Cadastrar’ – Clic no botão cadastrar.
 click_link ‘Home’ – Clica no link Home caso haja algum na página.
 
 expect(page).to have_content ‘Cadastro efetuado com sucesso’ – Procura a mensagem e caso tenha, será sucesso.
-'''
+```
 
 Mais comandos Capybara:
 - https://gist.github.com/tiagonline/f257d7aed200b6648e78c5485b33fa7f
