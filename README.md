@@ -7,36 +7,28 @@ Possui quase tudo que já pesquisei e que vem me ajudando na escrita dos meus pr
 É simples o aprendizado e nos dias de hoje é imprescindível na carreira de qa. Tentei pôr os post por ordem de precisão.
 
 
-Configurando o GIT:]
-http://gabsferreira.com/instalando-o-git-e-configurando-github/
-http://rogerdudler.github.io/git-guide/index.pt_BR.html
-https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+Configurando o GIT:
+- http://gabsferreira.com/instalando-o-git-e-configurando-github/
+- http://rogerdudler.github.io/git-guide/index.pt_BR.html
+- https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
 
-Passo a passo obrigatório - Capybara for all - do Thiago Marques]
-https://github.com/thiagomarquessp/capybaraforall
+Passo a passo obrigatório - Capybara for all - do Thiago Marques
+- https://github.com/thiagomarquessp/capybaraforall
 
-Configurando ambiente Cucumber windows:]
+Configurando ambiente Cucumber windows:
 https://medium.com/@fernandosqa/instalando-ruby-cucumber-e-capybara-no-windows-10-acb1fe833a95#.4umrvkagv
 
-Configurando ambiente Cucumber Mac e Linux:]
+Configurando ambiente Cucumber Mac e Linux:
 http://agiletesters.com.br/topic/103/a-arte-de-desenvolver-testes-cucumber-capybara
 
 Desenvolvam no Atom (é 0800, comunidade bem ativa, tem ótimos plugins):]
 https://atom.io/
 
-Cucumber no Jenkins:
-https://medium.com/@fernandosqa/um-poquito-de-devops-com-jenkins-docker-cucumber-tests-e-reports-parte-1-a179b84fc227#.f91u6xu9q
-https://medium.com/@fernandosqa/um-poquito-de-devops-com-jenkins-docker-cucumber-tests-e-reports-parte-2-39653b23fc00#.m5empj7le
-
-Cucumber no Circle Ci:
-https://github.com/tiagonline/automacao_circleci
-
 Escreva tudo usando page objects, teremos um código limpo e fácil para dar manutenção:
 https://github.com/natritmeyer/site_prism
 
 Magneton, gem que facilita a criação estrutural de novos projetos:
-https://github.com/tiagonline/magneton
-Esse é um fork do projeto da Samanta Cicilia (Concrete Solutions).
+https://github.com/concretesolutions/magneton
 
 Capybara, comandos básicos:
 
@@ -71,7 +63,7 @@ Mais comandos Capybara:
 https://gist.github.com/tiagonline/f257d7aed200b6648e78c5485b33fa7f
 
 
-Geração de massa aleatória:
+Geração de massa aleatória, utilização do faker:
 https://github.com/bernardo/cpf_faker
 https://github.com/stympy/faker
 
@@ -84,10 +76,18 @@ https://github.com/rspec/rspec-expectations
 http://www.rubydoc.info/gems/rspec-expectations/RSpec/Expectations
 https://gist.github.com/steveclarke/2353100
 
+Integração contínua de projetos com 
+Jenkins:
+https://medium.com/@fernandosqa/um-poquito-de-devops-com-jenkins-docker-cucumber-tests-e-reports-parte-1-a179b84fc227#.f91u6xu9q
+https://medium.com/@fernandosqa/um-poquito-de-devops-com-jenkins-docker-cucumber-tests-e-reports-parte-2-39653b23fc00#.m5empj7le
 
-Estou incluindo novos projetos e referências no meu git também:
+e Circle Ci:
+https://github.com/tiagonline/automacao_circleci
+
+Estou sempre incluindo novos projetos e referências no meu git também:
 https://github.com/tiagonline
 
-Se precisar nós marcamos uns hangouts doidos aí.
+Se precisar nós marcamos uns hangouts.
 Qualquer coisa é só chamar! hehe.
+tiagonline@gmail.com
 Abraço.
