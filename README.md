@@ -12,16 +12,16 @@ Configurando o GIT:
 - http://rogerdudler.github.io/git-guide/index.pt_BR.html
 - https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
 
-Passo a passo obrigatório - Capybara for all - do Thiago Marques
+Passo a passo, leitura obrigatória - Capybara for all - do Thiago Marques
 - https://github.com/thiagomarquessp/capybaraforall
 
-Configurando ambiente Cucumber windows:
+Configurando ambiente Cucumber no Windows:
 - https://medium.com/@fernandosqa/instalando-ruby-cucumber-e-capybara-no-windows-10-acb1fe833a95#.4umrvkagv
 
-Configurando ambiente Cucumber Mac e Linux:
+Configurando ambiente Cucumber no Mac e Linux:
 - http://agiletesters.com.br/topic/103/a-arte-de-desenvolver-testes-cucumber-capybara
 
-Desenvolvam no Atom (é 0800, comunidade bem ativa, tem ótimos plugins):]
+Desenvolvam no Atom, gente (é 0800, comunidade bem ativa e tem ótimos plugins):
 - https://atom.io/
 
 Escreva tudo usando page objects, teremos um código limpo e fácil para dar manutenção:
@@ -87,7 +87,7 @@ e Circle Ci:
 Estou sempre incluindo novos projetos e referências no meu git também:
 - https://github.com/tiagonline
 
-Se precisar nós marcamos uns hangouts.
+Se precisar marcamos uns hangouts.
 Qualquer coisa é só chamar! hehe.
 tiagonline@gmail.com
 Abraço.
